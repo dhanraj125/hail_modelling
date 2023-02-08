@@ -15,3 +15,5 @@ The workflow for the project is as follows
 5.	Normalized hail size is calculated (between 0 and 1) using average hail size per postcode.
 6.	Normalized hail frequency is calculated using frequency per unit area.
 7.	hail risk is the average percentage of normalized hail size and normalized hail frequency per unit area.
+
+
